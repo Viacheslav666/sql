@@ -7,6 +7,7 @@ last_name VARCHAR(50), NOT NULL,
 gender VARCHAR(6), NOT NULL,
 age INT NOT NULL
     );
+
 INSERT INTO skypro(first_name, last_name, gender,age)
 VALUES (Petr, Petrod, men, 29);
 VALUES (Igor, Igorev, men, 21);
